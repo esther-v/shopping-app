@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Totebag",
+    "price": 24.99,
+    "imgUrl": "/imgs/totebag.jpg",
+    "imgCredit": "Angelina Yan"
+  },
+  {
+    "id": 2,
+    "name": "Pantalon en toile",
+    "price": 44.99,
+    "imgUrl": "/imgs/trousers.jpg",
+    "imgCredit": "Engin Akyurt"
+  },
+  {
+    "id": 3,
+    "name": "Tennis",
+    "price": 53.99,
+    "imgUrl": "/imgs/shoes.jpg",
+    "imgCredit": "Alin Surdu"
+  },
+  {
+    "id": 4,
+    "name": "Sac à dos",
+    "price": 42.99,
+    "imgUrl": "/imgs/backpack.jpg",
+    "imgCredit": "Haupes"
+  }
+]
